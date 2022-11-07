@@ -13,7 +13,6 @@
 <p>🔗 <a href="https://api-cadastro2.herokuapp.com/user" target="_blank"> Cadastro </a>  </p>
 <!-- <a href="https://api-cadastro2.herokuapp.com/user" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
-
 ## Instruções:
 <p align="justify">Basta clonar o repositório e logo após abrir o código usar o comando npm install e npm start para o projeto ficar online. Abaixo tem mais informações sobre</p>
 
